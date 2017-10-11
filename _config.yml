@@ -1,0 +1,29 @@
+# Read all Newspapers at one site. Collection (List) of all newspaper, magazine and online portal. Newspaper and Magazine Directory.
+
+title: Newspaper & Magazines List
+description: >- # this means to ignore newlines until "baseurl:"
+  Collection (List) of all newspaper, magazine & online portal.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+name: Newspaper & Magazines List
+bio: Collection (List) of all newspaper, magazine & online portal.
+twitter_username: samazgor
+github_username:  samazgor
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
