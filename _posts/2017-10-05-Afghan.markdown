@@ -15,7 +15,8 @@ tags:
   - Asian Newspapers
 published: true
 ---
-Directory of all Albanian newspaper, magazine & online portal
+Directory of all Albanian newspaper, magazine & online portal.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Newspaper -->
 <ins class="adsbygoogle"
