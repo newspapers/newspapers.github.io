@@ -3,7 +3,7 @@ layout: post
 title:  "All Bangladesh Newspapers"
 description: Read all Bangladesh Newspapers at one site. Collection (List) of all Bangladesh bengali and english newspaper, magazine and online portal.
 date:   2017-10-22 07:36:41 +0600
-permalink: /Bangladesh
+permalink: /bangladesh
 image: /banner/Flag-of-Bangladesh.png
 categories:
   - Bangladesh
@@ -13,6 +13,7 @@ tags:
   - Asian Newspapers
 ---
 Directory of all Bangladeshn newspaper, magazine & online portal.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Newspaper -->
 <ins class="adsbygoogle"
