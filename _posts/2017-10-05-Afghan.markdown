@@ -15,6 +15,18 @@ tags:
   - Asian Newspapers
 published: true
 ---
+Directory of all Albanian newspaper, magazine & online portal
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Newspaper -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8223263853196045"
+     data-ad-slot="8487475055"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Following are chart of afghan newspapers sorted by popularity.
 
 | <a href="http://www.afghanistantimes.af/" target="_blank" rel="nofollow"><img src="/img/aftimesnewlogo.png"></a> | <a href="http://www.afghanistantimes.af/" target="_blank" rel="nofollow">Afghanistan Times</a> : English-language daily newspaper published in Kabul, Afghanistan since 2005.|
