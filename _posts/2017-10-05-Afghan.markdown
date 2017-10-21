@@ -18,6 +18,16 @@ published: true
 Following are chart of afghan newspapers sorted by popularity.
 
 | <a href="http://www.afghanistantimes.af/" target="_blank" rel="nofollow"><img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"></a> | <a href="http://www.afghanistantimes.af/" target="_blank" rel="nofollow">Afghanistan Times</a> | English-language daily newspaper published in Kabul, Afghanistan since 2005.|
+
+| <a href="http://www.outlookafghanistan.net/" target="_blank" rel="nofollow"><img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"></a> | <a rel="nofollow" target="_blank" href="http://www.outlookafghanistan.net/">Daily Outlook</a> | Independent English language newspaper published in Afghanistan.|
+
+| <a href="http://www.benawa.com/" target="_blank" rel="nofollow"><img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"></a> | <a rel="nofollow" target="_blank" href="http://www.benawa.com/">Benawa</a> | Persian-language newspaper published in Afghanistan.|
+
+| <a href="http://www.pajhwok.com/" target="_blank" rel="nofollow"><img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"></a> | <a rel="nofollow" target="_blank" href="http://www.pajhwok.com/">Pajhwok Afghan News</a> | Kabul-based independent news agency providing daily coverage of news.|
+
+| <a href="http://www.kabulpress.org/" target="_blank" rel="nofollow"><img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"></a> | <a rel="nofollow" target="_blank" href="http://www.kabulpress.org/">Kabul Press</a> | Afghan news portal and discussion website in Persian and English-language.|
+        				
+| <a href="" target="_blank" rel="nofollow"><img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"></a> | <a rel="nofollow" target="_blank" href="http://www.dailyafghanistan.com/">Daily Afghanistan</a> | Region and the latest news, information and analysis on critical issues in Afghanistan.|
 | test | Test1 | Test 2|
 | test | Test1 | Test 2|
 | test | Test1 | Test 2|
