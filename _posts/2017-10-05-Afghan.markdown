@@ -17,7 +17,7 @@ published: true
 ---
 Following are chart of afghan newspapers sorted by popularity.
 
-| <img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"> | [Afghanistan Times](http://www.afghanistantimes.af/ "Afghanistan Times"){:target="_blank"}{:rel="nofollow"} | English-language daily newspaper published in Kabul, Afghanistan since 2005.|
+| <a href="http://www.afghanistantimes.af/" target="_blank" rel="nofollow"><img src="http://afghanistantimes.af/wp-content/uploads/2014/11/aftimesnewlogo1.png"></a> | <a href="http://www.afghanistantimes.af/" target="_blank" rel="nofollow">Afghanistan Times</a> | English-language daily newspaper published in Kabul, Afghanistan since 2005.|
 | test | Test1 | Test 2|
 | test | Test1 | Test 2|
 | test | Test1 | Test 2|
