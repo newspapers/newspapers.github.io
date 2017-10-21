@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "All Afghan Newspapers"
-description: Read all Afghanistan Newspapers at one site. Collection (List) of all afghan pashto and english newspaper, magazine and online portal.
-date:   2017-10-05 07:36:41 +0600
+title: All Afghan Newspapers
+description: >-
+  Read all Afghanistan Newspapers at one site. Collection (List) of all afghan
+  pashto and english newspaper, magazine and online portal.
+date: '2017-10-05 07:36:41 +0600'
 permalink: /afghanistan
 image: /banner/Flag-of-Afghanistan.png
 categories:
@@ -11,9 +13,14 @@ categories:
 tags:
   - Newspapers
   - Asian Newspapers
+published: true
 ---
 Following are chart of afghan newspapers sorted by popularity.
 
+| test | Test1 | Test 2|
+| test | Test1 | Test 2|
+| test | Test1 | Test 2|
+| test | Test1 | Test 2|
 | test | Test1 | Test 2|
 | test | Test1 | Test 2|
 
