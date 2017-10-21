@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All Albania Newspapers"
-description: Read all Albania Newspapers at one site. Collection (List) of all Albania pashto and english newspaper, magazine and online portal.
+description: Read all Albania Newspapers at one site. Collection (List) of all Albania local and english newspaper, magazine and online portal.
 date:   2017-10-22 07:36:41 +0600
 permalink: /albania
 image: /banner/Flag-of-Albania.png
