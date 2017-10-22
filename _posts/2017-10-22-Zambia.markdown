@@ -2,8 +2,8 @@
 layout: post
 title:  "All Zambia Newspapers"
 description: Read all Zambia Newspapers at one site. Collection (List) of all Zambian newspaper, magazine and online portal.
-date:   2017-10-22 07:36:41 +0600
-permalink: /bangladesh
+date:   2017-10-22 08:36:41 +0600
+permalink: /zambia
 image: /img/bangladesh.png
 categories:
   - Zambia
