@@ -10,6 +10,9 @@ bio: Collection (List) of all newspaper, magazine & online portal.
 twitter_username: samazgor
 github_username:  samazgor
 
+Google services
+google_analytics: UA-56619929-1
+
 # Build settings
 markdown: kramdown
 theme: overkyll-jekyll-theme

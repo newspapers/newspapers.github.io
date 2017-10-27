@@ -37,32 +37,20 @@ Following are chart of Bangladeshn newspapers sorted by popularity.
 
 | <a href="http://www.bd-pratidin.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Bangladesh Pratidin | <a href="http://www.dainikamadershomoy.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Amader Shomoy | <a href="https://www.manobkantha.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Manobkantha |
 
-| <a href="http://www.kalerkantho.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Kaler Kantho |
-| <a href="http://www.banglanews24.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>BanglaNews24.Com |
-| <a href="https://www.sheershanews24.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Sheersha News |
+| <a href="http://www.kalerkantho.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Kaler Kantho | <a href="http://www.banglanews24.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>BanglaNews24.Com | <a href="https://www.sheershanews24.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Sheersha News |
 
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Shokaler Khabor |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Samakal |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Destiny |
+| <a href="http://www.shokalerkhobor24.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Shokaler Khabor | <a href="http://www.samakal.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Samakal | <a href="http://www.dainik-destiny.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Destiny |
 
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Sangram |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Purbanchal |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Jaijaidin |
+| <a href="http://www.dailysangram.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Sangram | <a href="http://www.purbanchal.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Purbanchal | <a href="http://www.jjdin.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Jaijaidin |
 
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Purbakone |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Azadi |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Bartoman |
+| <a href="http://www.dainikpurbokone.net/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Purbakone | <a href="http://www.dainikazadi.org/index.php" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Azadi | <a href="http://dailybartoman.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Bartoman |
 
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>AmaderSylhet.Com |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Barta24.Net |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Bangladesh Shomoy |
+| <a href="http://www.amadersylhet.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>AmaderSylhet.Com | <a href="http://www.barta24.net/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Barta24.Net | <a href="http://www.dailyshomoy.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Bangladesh Shomoy |
 
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Al-Ihsan |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Janata |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Rangpur Chitra |
+| <a href="http://www.al-ihsan.net/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Al-Ihsan | <a href="http://www.djanata.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Dainik Janata | <a href="http://erangpurchitra.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Rangpur Chitra |
 
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Shokal Barta Protidin |
-| <a href="" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Jugantor |
+| <a href="http://sakalbarta.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Shokal Barta Protidin | <a href="http://www.jugantor.com/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Jugantor</a> |
  
+
 
 Bangladesh is a country located in South- East Asia. Bangladesh is the most densely populated country in the world. Bengali is the official language of Bangladesh. English is regarded as the second language in the country. Bangladesh has a lot of daily newspapers in the country. All of the daily newspapers are morning releases. Most of the newspapers are published in Bengali. There are around a dozen newspapers published in English. Most of the newspapers have their own online version. Bangladesh has a wide number of online new portals. The country publishes numerous lifestyle and cultural magazines. The magazines are published both in English and Bengali

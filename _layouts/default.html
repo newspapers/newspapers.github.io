@@ -1,9 +1,18 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="intro-header"></div>
+  {% include head.html %}
 
-<div role="main" class="container">
-  {{ content }}
-</div>
+  <body class="page" itemscope itemtype="http://schema.org/WebPage">
+
+    {% include header.html %}
+
+    <main id="main">
+      {{ content }}
+    </main>
+    <script src={{ "/assets/js/instantclick.min.js" | relative_url }}  data-no-instant></script>
+    <script data-no-instant>
+      InstantClick.init();
+    </script>
+  </body>
+</html>
