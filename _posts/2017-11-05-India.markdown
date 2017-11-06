@@ -14,6 +14,16 @@ tags:
 ---
 Directory of all India newspaper, magazine & online portal. Read all News from India at one place. We tried to make a complete list of all News Sites, Newspapers, ePapers, Magazines, TV channels and News channels of India.
 
+
+
+| HINDI | ENGLISH | ANDHRA PRADESH |
+| ASSAM | BIHAR | DELHI |
+| GOA | GUJRAT | JAMMU KASHMIR |
+| KARNATAKA | KERALA | MADHYA PRADESH |
+| MAHARASHTRA | RAJASTHAN | TAMIL NADU |
+| UTTAR PRADESH | WEST BENGAL |  |
+
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Newspaper -->
 <ins class="adsbygoogle"
@@ -25,12 +35,6 @@ Directory of all India newspaper, magazine & online portal. Read all News from I
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-| HINDI | ENGLISH | ANDHRA PRADESH |
-| ASSAM | BIHAR | DELHI |
-| GOA | GUJRAT | JAMMU KASHMIR |
-| KARNATAKA | KERALA | MADHYA PRADESH |
-| MAHARASHTRA | RAJASTHAN | TAMIL NADU |
-| UTTAR PRADESH | WEST BENGAL |  |
 
 Following are chart of Indian newspapers sorted by popularity.
 
@@ -48,6 +52,7 @@ Following are chart of Indian newspapers sorted by popularity.
 | Tribune India | Business Standard | India Times |
 | Times of India | The Hindu हिन्दू | Amar Ujala अमर उजाला |
 | The Statesman Calcutta | Gold News India | Live Mint India |
+
 
 
 India, officially the Republic of India is a country in South Asia. It is the seventh-largest country by area, the second-most populous country (with over 1.2 billion people), and the most populous democracy in the world. 
