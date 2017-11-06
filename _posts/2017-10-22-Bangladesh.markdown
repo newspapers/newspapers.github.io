@@ -25,7 +25,7 @@ Directory of all Bangladeshi newspaper, magazine & online portal.
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Following are chart of Bangladeshn newspapers sorted by popularity.
+Following are chart of Bangladeshi newspapers sorted by popularity.
 
 | <a href="http://www.prothom-alo.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Prothom Alo | <a href="http://amar-desh24.com" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Amardesh | <a href="http://www.ittefaq.com.bd/" rel="nofollow" target="_blank"><img src="/banner/news.ico"><br>Daily Ittefaq |
 
