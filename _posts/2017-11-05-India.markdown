@@ -2,7 +2,7 @@
 layout: post
 title:  "All Indian Newspapers"
 description: Read all India Newspapers at one site. Collection (List) of all Indian english newspaper, magazine and online portal.
-date:   2017-10-22 07:36:41 +0600
+date:   2017-11-5 07:36:41 +0600
 permalink: /india
 image: /banner/news.ico
 categories:
