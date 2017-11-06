@@ -12,7 +12,7 @@ tags:
   - Newspapers
   - Asian Newspapers
 ---
-Directory of all Bangladeshn newspaper, magazine & online portal.
+Directory of all Bangladeshi newspaper, magazine & online portal.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Newspaper -->
