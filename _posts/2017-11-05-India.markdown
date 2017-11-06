@@ -25,49 +25,29 @@ Directory of all India newspaper, magazine & online portal. Read all News from I
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+| HINDI | ENGLISH | ANDHRA PRADESH |
+| ASSAM | BIHAR | DELHI |
+| GOA | GUJRAT | JAMMU KASHMIR |
+| KARNATAKA | KERALA | MADHYA PRADESH |
+| MAHARASHTRA | RAJASTHAN | TAMIL NADU |
+| UTTAR PRADESH | WEST BENGAL |  |
+
 Following are chart of Indian newspapers sorted by popularity.
 
 | Swatantra Awaz | Swatantra Chetna | New Indian Express |
+| Uttam Hindu | Vir Arjun | Seema Sandesh| 
+| Khas Khabar | Pratah Kal | Prabhasakshi |
+| Economic Times Hindi | Jansatta जनसत्ता | Deshbandhu देशबंधु |
+| Navabharat Press नवभारत प्रेस | Punjab Kesari पंजाब केसरी | Rastriya Sahara राष्ट्रीय सहारा |
+| Rajasthan Patrika राजस्थान पत्रिका | Lokmat Times | Lokmat Samachar लोकमत समाचार |
+| Jagran Hindi जागरण | Hindustan हिन्दुस्तान | Tehelka तहलका |
+| Deccan Chronicle | Asian Age | Indian Express |
+| Deccan Herald | News Today | Hindustan Times |
+| Daily Excelsior | Afternoon DC | Pune Mirror |
+| DNA India | Tehelka | Pioneer |
+| Tribune India | Business Standard | India Times |
+| Times of India | The Hindu हिन्दू | Amar Ujala अमर उजाला |
+| The Statesman Calcutta | Gold News India | Live Mint India |
 
-Uttam Hindu
-Vir Arjun
-Seema Sandesh
-Khas Khabar
-Pratah Kal
-Prabhasakshi
-Economic Times Hindi
-Jansatta जनसत्ता
-Deshbandhu देशबंधु
-Navabharat Press नवभारत प्रेस
-Punjab Kesari पंजाब केसरी
-Rastriya Sahara राष्ट्रीय सहारा
-Rajasthan Patrika राजस्थान पत्रिका
-Lokmat Times
-Lokmat Samachar लोकमत समाचार
-Jagran Hindi जागरण
-Hindustan हिन्दुस्तान
-Tehelka तहलका
-Deccan Chronicle
-Asian Age
-Indian Express
-Deccan Herald
-News Today
-Hindustan Times
-Daily Excelsior
-Afternoon DC
-Pune Mirror
-DNA India
-Tehelka
-Pioneer
-Tribune India
-Business Standard
-India Times
-Times of India
-The Hindu हिन्दू
-Amar Ujala अमर उजाला
-The Statesman Calcutta
-Gold News India
-Live Mint India
-Dainik Tribune
- 
+
 India, officially the Republic of India is a country in South Asia. It is the seventh-largest country by area, the second-most populous country (with over 1.2 billion people), and the most populous democracy in the world. 
