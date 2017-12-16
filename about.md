@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-navigation: true
+navigation: false
 ---
 
 ## About Newspaper Directory
